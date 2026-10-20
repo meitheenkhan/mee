@@ -1,0 +1,39 @@
+body{
+    background-color: yellow;
+
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+img{
+    border: 5px solid;
+    border-color:black;
+    border-radius: 8%;
+    width: 400px;
+    height: 500px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    background-color: black;
+    padding: 10px;
+    border-radius:10px;
+    width:120px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+    font-size: 20px;
+}
+h2{
+    font-size: 60px;
+}
